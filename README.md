@@ -102,7 +102,7 @@ streamlit run app.py
 
 ---
 # linkedin link for  Demo:
-https://www.linkedin.com/feed/update/urn:li:activity:7320848835965005826/
+[https://www.linkedin.com/feed/update/urn:li:activity:7320848835965005826/](https://www.linkedin.com/posts/gaurav-kumar-85a602324_machinelearning-movierecommendation-ai-activity-7320866352255098881-Wsu8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH1mkYBXlDYEs-UqzA3ip8sGKZV5ynAbgw)
 
 ## Dataset
 
